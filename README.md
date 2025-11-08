@@ -1,3 +1,9 @@
+Update (Novemnber 8 2025):
+
+I am updating the Dynasty Warriors 2 modding tools with better code, this was made when I was still new to using Tkinter for Python. So, the current scripts are considered outdated until I finish updating them. When I finish, I'll make a new repository that has the newest versions especially since there's another editor in development for DW2 that I'm making
+
+Original Description:
+
 These are modding editors for Dynasty Warriors 2. Credit goes to God(Christian), Michael, Passion Wagon, Aurvi, and The Tempest for documentation on Dynasty Warriors 2. To use these editors you will need to place them in the same directory as your Dynasty Warriors 2 game, rename your game's file to "DW2.bin", place the icon files in the Icon_Files folder, and place the background PNG files in the backgrounds folder. For the coordinate script you must place it in the same directory that has the maps folder that is used with the coordinate script.
 
 You need Python installed for the pyw files or you can use the executable files which are standalone scripts that do not require Python installed. These editors only work on the USA version of Dynasty Warriors 2.
