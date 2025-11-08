@@ -1,6 +1,6 @@
 Update (Novemnber 8 2025):
 
-I am updating the Dynasty Warriors 2 modding tools with better code, this was made when I was still new to using Tkinter for Python. So, the current scripts are considered outdated until I finish updating them. When I finish, I'll make a new repository that has the newest versions especially since there's another editor in development for DW2 that I'm making
+I am updating the Dynasty Warriors 2 modding tools with better code, this was made when I was still new to using Tkinter and when I used to be a novice with Python. so the code was sloppy back then. So, the current scripts are considered outdated until I finish updating them. When I finish, I'll make a new repository that has the newest versions especially since there's another editor in development for DW2 that I'm making
 
 Original Description:
 
